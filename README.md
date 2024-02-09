@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HP84D14ZGHW52EK4S53R40KX
-  version: v2.2
----
-
 # Webdriverio v8 Exercise Web Automation Framework by Walter Rojas
 
 Automated functional UI test for Ether based on [WebdriverIO](https://webdriver.io/) browser automation test framework
